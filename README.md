@@ -1,2 +1,4 @@
 # Car-rental-website
-This is my first website that i designed for my client.Website still in development
+Guest user can view the website and check out the information about rental cars.
+Users can also inquiry through contact us page.Anyone can send their query through send message page.
+Users can view various services provided,type of taxis available,total number services provided and can read testimonials.
